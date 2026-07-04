@@ -11,6 +11,6 @@ Song04 - Eclipse_du_Dragon
 
 Song05 - Eisen_und_Ton
 
-Song06 - Dragon_Prophecy
+Song06 - Dragon_Prophecy (龙的预言)
 
 Song07 - Cumhuriyetin_Matrisi
